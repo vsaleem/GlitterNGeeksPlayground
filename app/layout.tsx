@@ -1,10 +1,10 @@
-import React from 'react'
+import { ReactNode } from 'react'
 // this file is the root layout for a Next.js application
 export default function RootLayout({ 
     children,
  }:
  {
-    children: React.ReactNode;
+    children: ReactNode;
  }) {
     return (
         <html lang="en">
