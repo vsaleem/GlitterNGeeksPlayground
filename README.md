@@ -1,4 +1,4 @@
-# Job Discovery Engine
+# GlitterNGeeks Playground - Job Discovery Engine
 
 A modern web application for discovering jobs, built with **Next.js**, **TypeScript**, and **React**.
 
