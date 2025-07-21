@@ -1,38 +1,45 @@
-<div align="center">
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-<!-- Add image gif here -->
-</h1>
-</div>
+# GlitterNGeeks Playground - Job Discovery Engine
 
-<div align="center" width="50">
+A modern web application for discovering jobs, built with **Next.js**, **TypeScript**, and **React**.
 
-<!-- Add image gif here -->
+## Features
 
-</div>
+- 🔍 Advanced job search and filtering
+- 📝 User-friendly interface
+- ⚡ Fast performance with Next.js SSR/SSG
+- 🔒 Type-safe codebase with TypeScript
+- 📱 Responsive design
 
-<div align="center">
+## Getting Started
 
-Greetings! You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me whatever. <b><a href="mailto:vic.saleem@gmail.com"></a></b>
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/job-discovery-engine.git
+    cd job-discovery-engine
+    ```
 
-<i>Recruiters, you are welcomed here too!</i> 😊
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-</div>
+3. **Run the development server:**
+    ```bash
+    npm run dev
+    ```
 
-<div align="center">
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaleem&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vsaleem's Github Stats">
+## Tech Stack
 
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
----
+## Contributing
 
-<i>Follow me on LinkedIn:</i><br>
+Contributions are welcome! Please open issues or submit pull requests.
 
-<a href="https://www.linkedin.com/in/victoriasaleem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+## License
 
-</div>
+MIT License
